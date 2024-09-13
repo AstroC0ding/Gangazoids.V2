@@ -17,7 +17,7 @@
         </div>
 
         <nav>
-          <a href="index.html">Home</a>
+      <a class="active" href="Index.html">Home</a>
         </nav>
       </div>
     </header>
