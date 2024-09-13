@@ -1,0 +1,9 @@
+@import https://fonts.google.com/share?selection.family=Permanent+Marker
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Permament Marker', cursive;';
+}
