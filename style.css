@@ -5,5 +5,10 @@
     padding: 0;
 }
 body{
-    font-family: 'Permament Marker', cursive;';
+    font-family: 'Permament Marker', cursive;
+    text-align: center;
+}
+-wrapper{
+    width: 90%;
+    margin: 0 auto;
 }
