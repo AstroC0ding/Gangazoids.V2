@@ -4,8 +4,8 @@
     margin: 0;
     padding: 0;
 }
-body{
-    font-family: 'Permament Marker', cursive;
+.h1{
+    font-family: 'Permament Marker',font-style: cursive;
     text-align: center;
 }
 -wrapper{
