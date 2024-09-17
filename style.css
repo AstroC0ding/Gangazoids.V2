@@ -1,11 +1,12 @@
 @import https://fonts.google.com/share?selection.family=Permanent+Marker
 
+
 *{
     margin: 0;
     padding: 0;
 }
-.box-area{
-    font-family: 'Permament Marker';
+box-area{
+    font-family: 'Permament Marker', cursive;
     text-align: center;
 }
 -wrapper{
