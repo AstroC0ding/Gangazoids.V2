@@ -1,6 +1,6 @@
 @import https://fonts.google.com/share?selection.family=Permanent+Marker
 
-. {
+.box area {
   width: 300px;
   border: 15px solid green;
   padding: 50px;
