@@ -20,3 +20,9 @@ body{
 .credits {  font-family: 'Permament Marker',font-style: cursive;
     text-align: center;
 }
+
+.banner-area { width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px; 
+             }
