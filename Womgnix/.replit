@@ -1,0 +1,6 @@
+language="nix"
+run = "./replit-run.sh"
+
+[[ports]]
+localPort = 80
+externalPort = 80
