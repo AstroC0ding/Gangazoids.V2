@@ -1,11 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap");
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
-}
-
+@import https://fonts.google.com/share?selection.family=Permanent+Marker
 
 .box-area {
   width: 300px;
@@ -17,7 +10,7 @@
 }
 
 body{
-    font-family: 'Poppins', cursive;
+    font-family: 'Permament Marker', cursive;
     text-align: center;
 }
 -wrapper{
@@ -32,3 +25,4 @@ body{
 
 .h1 
  {color="purple"
+       }
