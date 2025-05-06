@@ -1,4 +1,4 @@
-@import https://fonts.google.com/share?selection.family=Permanent+Marker
+@import url('https://fonts.googleapis.com/css2?family=Passero+One&display=swap');
 
 .box-area {
   width: 300px;
@@ -10,7 +10,7 @@
 }
 
 body{
-    font-family: 'Permament Marker', cursive;
+    font-family: 'Passero One', cursive;
     text-align: center;
 }
 -wrapper{
